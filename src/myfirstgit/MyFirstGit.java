@@ -14,6 +14,8 @@ public class MyFirstGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        System.out.println("Hello folks");
         // TODO code application logic here
     }
     
